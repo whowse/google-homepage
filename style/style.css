@@ -1,3 +1,18 @@
-body {
-  background-color: 
+#Google-img {
+      display: block;
+      padding-bottom: 20px;
+      margin:auto;
+      align-content: center;
+}
+
+#fakebox {
+  height:
+  display: inline-block;
+  margin: auto;
+  align-content: center;
+}
+#links{
+    display: block;
+    margin: auto;
+    align-content: center;
 }
